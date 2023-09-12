@@ -19,3 +19,23 @@ Teniendo en cuenta que los KPIs son esenciales para evaluar el progreso hacia lo
 
 # Datasets
 
+El material que fue utilizado para la realización del proyecto fué otorgado por Henry. <br>
+El dataset es un archivo '.csv' que consta con 444.448 filas y 18 columnas. Además se proporciono un archivo de tipo '.docx' en donde se explica el modelo de datos y la descripción del contenido.
+
+# Proceso de ETL 
+Para este proceso se utilizaron las siguientes herramientas, Power BI, Power Query y DAX. <br>
+Power BI es una plataforma de analisis de datos que permite te permite conectarte a diferentes fuentes de datos, transformarlo y modelarlos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
